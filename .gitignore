@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Logs
+*.log
+
+# Visitor contact data (local lead storage)
+contacts.json
+contacts.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
